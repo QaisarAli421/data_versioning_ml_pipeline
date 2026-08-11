@@ -8,6 +8,7 @@ import nltk
 import string
 from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer, WordNetLemmatizer
+import yaml
 
 #fetch the data from data/raw folder
 
